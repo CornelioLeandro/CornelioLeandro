@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com suporte a rede de internet
 - 🌱 Estudando sobre desenvolvimento android nativo Kotlin/Java 
-- 👯 Procurando minha primeira vaga com desenvolvimento android e disposto a aprender  outras linguagem hibridas Flutter...
+- 👯 Procurando minha primeira vaga com desenvolvimento android e disposto a aprender  outras linguagens hibridas Flutter...
 - 📫 Contato por email ou whatapp: Cornelio.leandro@gmail.com / 14-981301912
 - <div>
   <a href="https://github.com/CornelioLeandro">

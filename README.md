@@ -8,11 +8,8 @@
 - <div>
   <a href="https://github.com/CornelioLeandro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CornelioLeandro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" witdh="200em "src="https://github-readme-stats.vercel.app/api/top-langs/?username=CornelioLeandro&layout-compact&langs_count=16&theme=dracula"/>
  </div>
-  <div>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CornelioLeandro&layout-compact&langs_count=16&theme=dracula"/>
-  </div>
-  
  
   <div style="display: inline_block"><br>
    <img align="center" alt="Leandro-Kotlin" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">   
